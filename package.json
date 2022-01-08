@@ -2,13 +2,13 @@
   "name": "dcode-denpa",
   "version": "2.0.0",
   "description": "bitch-boot",
-  "main": "node index",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node index.js"
   },
   "author": "denis-putra",
   "license": "ISC",
